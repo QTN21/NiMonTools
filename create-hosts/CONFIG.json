@@ -1,0 +1,10 @@
+{
+    "ip_range": ["192.168.1.1/24", "192.168.2.1/24"],
+    "zbx_url": "IP:PORT", 
+    "zbx_user": "Admin",
+    "zbx_pass": "zabbix", 
+    "secu_name": "zbx", 
+    "authpass": "zabbix_pass", 
+    "privpass": "zabbix_pass", 
+    "group": "TEST"
+}
